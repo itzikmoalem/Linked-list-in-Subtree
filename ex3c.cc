@@ -1,12 +1,4 @@
-/*File: ex3c.cc
-===============================================================================
-Binary Trees - Bereaved Tree
-
-This Program search the depth of father with one kid.
-the program print the data that include in the same tree.
-
-Name: Itzik Moalem | ID: 313181638 | Login:itzikmo
-=============================================================================*/
+//File: ex3c.cc
 //-----------------------------Includes----------------------------------------
 #include <iostream>
 #include <cstdlib>
